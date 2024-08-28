@@ -1,4 +1,5 @@
 
 # Assignment Submission Checklist
 
-- [] Restart your kernel, then run all cells.
+- [x] Complete the notebook.
+- [ ] Restart your kernel, then run all cells.
