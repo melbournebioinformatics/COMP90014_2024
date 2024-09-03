@@ -20,7 +20,6 @@ def draw_generic_tree(G: nx.DiGraph) -> None:
     plt.tight_layout()
     plt.show()
 
-
 def draw_suffix_trie(trie: nx.DiGraph) -> None:
     fig = plt.figure(1, figsize=(6, 8))
     pos = graphviz_layout(trie, prog="dot")
