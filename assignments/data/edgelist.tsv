@@ -1,0 +1,11 @@
+src	dest	kmer
+A	B`	attet
+A	B	atter
+B`	X	looks
+B`	C`	lookk
+B	C	look_
+B	C``D`	look.
+C`	D	kjudg
+C	D	_judg
+D	E	_my_s
+C``D`	E	kmy_s
