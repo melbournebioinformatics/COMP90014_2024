@@ -1,0 +1,12 @@
+node	sequence	neighbors
+A`	gattaca	B`
+B`	catcatcat	A`,C`
+C`	ttttt	B`,D`,E`
+D`	#TeamLH	C`,E`
+E`	marcus_aurelius	C`,D`,K
+K	atcgtagc	E`,F`
+F`	ttacgta	K,G`,J`
+G`	acaagg	F`,H`,J`
+H`	tatatat	G`,I`
+I`	the_spice_girls	H`,J`
+J`	ggggggggg	F`,G`,I`
